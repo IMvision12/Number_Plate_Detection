@@ -2,6 +2,8 @@
 
 An AI based Number Plate Detection , which can detect the Number Plates from the images.
 
+## Model Used : YOLOv5n6
+
 # Inference Time and FPS
 
 1. Inference time on google colab CPU(Xeon(r)) : 10.92 FPS
